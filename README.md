@@ -1,3 +1,5 @@
-## Example Repo for learning Jenkins, CSCI435 Fall 2022 Group #2: DevOps Presentation
+## Learning the Jenkins Pipeline
 
-Based on this sample repo: https://github.com/TechPrimers/jenkins-example
+For CSCI 435
+
+Based on the team's tutorial repository: https://github.com/danielchookboklee/CSCI435JenkinsExampleRepo
